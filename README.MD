@@ -1,3 +1,5 @@
+*ongoing project, just started.
+
 <img src="https://images.credly.com/images/1c2c86e1-16ce-4e4d-a425-d1ac96bb026d/express.png" alt="technology" width="120" height="120" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/640px-Postgresql_elephant.svg.png" alt="database" width="120" height="120" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="language" width="120" height="120" />
 <img src="https://miro.medium.com/v2/resize:fit:1024/1*sRnURmqek5n5ozXwUrp5kQ.jpeg" alt="orm" width="180" height="120" /> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="orm" width="120" height="120" /> <img src="https://graphqleditor.com/images/graphql.png" alt="orm" width="120" height="120" /> <img src="https://blog.dreamfactory.com/hubfs/Imported_Blog_Media/redis.png" alt="orm" width="120" height="120" />
 
